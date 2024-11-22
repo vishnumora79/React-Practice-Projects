@@ -1,8 +1,7 @@
-# React + Vite
+# Learning React by doing simple projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Day 1 - built simple accordian feature
+2. Day 2 - built random background color generator project
 
-Currently, two official plugins are available:
+@freecodecamp
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
